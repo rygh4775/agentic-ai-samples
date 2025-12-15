@@ -1,0 +1,4 @@
+strands-agents>=1.19.0
+fastmcp>=2.13.2
+boto3>=1.35.0
+pydantic>=2.0.0
